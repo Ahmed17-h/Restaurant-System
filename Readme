@@ -1,0 +1,39 @@
+-# 🍽️ Kol 3ala kefak - Restaurant Management System
+
+A complete restaurant management system built with Java and Design Patterns.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Expert-blue)
+![OOP](https://img.shields.io/badge/OOP-Advanced-green)
+
+## 📋 Features
+
+### 🏗️ **Architecture**
+- **Factory Pattern** - Dynamic menu creation
+- **Decorator Pattern** - Customizable item add-ons
+- **Strategy Pattern** - Flexible discount strategies
+- **Observer Pattern** - Real-time notifications
+- **Facade Pattern** - Simplified system interface
+
+### 🍕 **Menu Management**
+- Vegetarian, Non-Vegetarian, and Kids menus
+- Dynamic item creation
+- Category-based filtering
+
+### 💰 **Order & Payment**
+- Smart discount system (Pizza, Kids, Chicken discounts)
+- Multiple payment methods (Cash, Credit Card, Mobile Wallet)
+- Detailed receipt generation with tax calculation
+- Real-time order tracking
+
+### 🔔 **Notifications**
+- Kitchen display for new orders
+- Waiter notifications for order status
+- Observer-based notification system
+
+### 🎨 **Customization**
+- Add-ons: Extra Cheese, Sauce, Mushroom Topping
+- Item decorators for dynamic pricing
+- Flexible order modifications
+
+## 🏗️ Project Structure
